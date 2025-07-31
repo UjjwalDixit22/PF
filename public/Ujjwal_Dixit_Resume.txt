@@ -1,0 +1,63 @@
+Ujjwal Dixit 
+LinkedIn: https://linkedin.com/in/ujjwaldixit22/ Email: ujjwaldixit285@gmail.com 
+GitHub: https://github.com/Ujjwaldixit22 Mobile: +91 8864949485 
+SKILLS 
+• Languages: Java, Python, HTML, SQL, JavaScript, PHP 
+• Frameworks: Bootstrap CSS, NodeJS, React, Angular 
+• Tools/Platforms: Git, VS Code, VMware, MongoDB, MySQL, IntelliJ Idea, Postman 
+• Soft Skills: Problem-Solving Skills, Team Collaboration, Project Management, Time Management, Adaptability 
+TRAINING 
+    Cipher schools (Edtech Company) 
+     Full Stack Development using MERN Stack Hybrid 
+• Engineered dynamic, responsive web applications using MongoDB, Express.js, Node.js, React.js resulting in 30% boost in user 
+engagement during project testing. 
+• Orchestrated seamless frontend – backend integration through RESTful APIs, accelerating development cycles by 25%. 
+• Deployed full stack applications on cloud platforms such as Netlify and Vercel ensuring 99% uptime during testing and  review 
+phases. 
+• Leveraged state management tools like Redux and React Content APIs to enhance application performance and scalability. 
+PROJECTS 
+Ecommerce Website | HTML, CSS, JavaScript, Bootstrap, MySQL Oct' 24 
+• Created a dynamic e-commerce website using HTML, CSS, and JavaScript, integrating visually appealing designs with 
+• interactive features. 
+• Implemented a user-friendly interface and optimized website responsiveness, leading to a 15% increase in customer 
+engagement. 
+• Conducted thorough testing and debugging to ensure seamless functionality across different browsers and devices. 
+Notes Application | MongoDB, React, Express, NodeJS Sep' 24 
+• Built a robust notes application leveraging MongoDB, Express-JS, ReactJS, and NodeJS to facilitate efficient notetaking and 
+• organization. 
+• Spearheaded backend development and database management, achieving a 20% improvement in data retrieval speeds. 
+• Ensured scalability and user satisfaction by conducting extensive testing and gathering feedback from end users. 
+ 
+Blogging Website| HTML, Bootstrap, JavaScript, MySQL , PHP        Sep' 23 
+• Designed and developed a dynamic blogging platform using PHP, focusing on efficient content management and user 
+interactivity. 
+• Enhanced performance and reliability through the integration of secure authentication systems and optimized database queries. 
+• Collaborated with users to refine the design and functionality, resulting in a 25% increase in content engagement. 
+ 
+Gym Website| HTML, CSS, JavaScript, MySQL May' 23 
+• Developed a responsive website for a gym, incorporating user-centric design and interactive features to enhance user engagement. 
+• Led the front-end development using HTML, CSS, and JavaScript, resulting in a 15% increase in user retention and sign-ups. 
+• Tested the website across multiple devices and browsers to ensure scalability and compatibility. 
+CERTIFICATIONS AND CERTIFICATES 
+• Cloud Computing certification from NPTEL Oct' 24 
+• Full-Stack Development using MERN Stack Hybrid | Cipher-schools Jul' 24 
+• The Complete 2024 Web Development Bootcamp | Udemy Jun' 24 
+• University of California San Diego (Algorithm of Strings) Feb' 24 
+• Vanderbilt University (Prompt Engineering for ChatGPT) Mar' 24 
+• Google Cloud Generative AI Aug' 23 
+ACHIEVEMENTS 
+• Participated in Celesta Hackathon to compete among 24 teams of college.                                    Mar' 24  
+• Partnered with an NGO for the Community Development Project to work in old age home.              Jun' 23 
+EDUCATION 
+Lovely Professional University Jalandhar, Punjab 
+• 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 7.30 Sep' 22 – Present
+ 
+Kapil Muni Children's Academy Mainpuri, Uttar Pradesh 
+• 
+Matriculation: 75% Apr' 20 – Mar' 22
+ 
+Courses: Physics, Mathematics, Chemistry 
+St Thomas Sr Sec School Mainpuri, Uttar Pradesh 
+• 
+High-School: 79% May' 20 – Jul' 22
